@@ -38,7 +38,7 @@ I often refer to and contribute insights derived from leading open-source projec
 
 * https://github.com/mishrarahulranjan?tab=repositories
 
-## Category	Key Technologies
+## Key Technologies
 * Programming Languages	Java, GoLang, Python, Node.js, C
 * Frontend Frameworks	React.js, AngularJS, jQuery, JavaScript (ES6+), HTML5
 * Databases & Data Stores	RDBMS (MySQL, PostgreSQL, Oracle), NoSQL (MongoDB), Distributed (BigQuery, BigTable, Redshift)
