@@ -1,4 +1,3 @@
-# 💻 RAHUL RANJAN
 
 An engineering-focused perspective on enterprise technology, software architecture, and strategic roadmapping, informed by over 15+ years in the Investment Banking and E-commerce sectors.
 
