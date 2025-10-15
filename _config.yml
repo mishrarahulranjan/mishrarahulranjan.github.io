@@ -12,7 +12,7 @@ description: >-
   of AI using frameworks like Spring AI.
 
 # Professional Identity
-author: RAHUL RANJAN  
+author: Rahul Ranjan
 email: mishra.rahul.ranjan@gmail.com
 
 # Expert Endorsements (for the professional look)
@@ -34,9 +34,8 @@ header_pages:
 
 # External Links (Social/Professional)
 social:
-  linkedin: [Your LinkedIn Username]
-  github: [Your GitHub Username]
-  twitter: [Your Twitter Handle]
+  linkedin: https://www.linkedin.com/in/rahul-ranjan-3a717629/
+  github: https://github.com/mishrarahulranjan/
   medium: [Your Medium/Blog URL]
 
 # Build Settings (Jekyll defaults - adjust if using another generator)
