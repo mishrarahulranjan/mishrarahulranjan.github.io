@@ -1,3 +1,53 @@
-theme: jekyll-theme-architect
-title: Welcome to Rahul R's Home Page
-description: Feel free to bookmark this to keep an eye on the updates
+# ------------------------------------
+# Site Configuration - The Digital Roadmap
+# ------------------------------------
+
+# Basic Site Settings
+title: The Digital Roadmap
+tagline: Enterprise Tech Strategy, Architecture, and AI Integration
+description: >-
+  An engineering-focused perspective on software architecture and strategic
+  roadmapping, informed by over 15 years in Investment Banking and E-commerce.
+  Vocal on technology's future, with a keen focus on the practical integration
+  of AI using frameworks like Spring AI.
+
+# Professional Identity
+author: RAHUL RANJAN  
+email: mishra.rahul.ranjan@gmail.com
+
+# Expert Endorsements (for the professional look)
+expert_level: "15+ Years Industry Veteran"
+primary_domain: "Investment Banking & High-Volume E-commerce"
+tech_vocal: true # Set to true to show this expert persona
+
+# AI and Tech Focus
+ai_enthusiast: true
+ai_focus: "Spring AI & Generative AI RAG Patterns"
+open_source_ref: true
+
+# Navigation Links (Adjust as needed)
+header_pages:
+  - index.md
+  - roadmap-insights.md
+  - ai-projects.md
+  - about.md
+
+# External Links (Social/Professional)
+social:
+  linkedin: [Your LinkedIn Username]
+  github: [Your GitHub Username]
+  twitter: [Your Twitter Handle]
+  medium: [Your Medium/Blog URL]
+
+# Build Settings (Jekyll defaults - adjust if using another generator)
+markdown: kramdown
+theme: minima # Or your chosen theme
+plugins:
+  - jekyll-feed
+
+# Exclusions
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/
