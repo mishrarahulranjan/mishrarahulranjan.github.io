@@ -38,16 +38,45 @@ I often refer to and contribute insights derived from leading open-source projec
 
 * https://github.com/mishrarahulranjan?tab=repositories
 
----
+## Category	Key Technologies
+* Programming Languages	Java, GoLang, Python, Node.js, C
+* Frontend Frameworks	React.js, AngularJS, jQuery, JavaScript (ES6+), HTML5
+* Databases & Data Stores	RDBMS (MySQL, PostgreSQL, Oracle), NoSQL (MongoDB), Distributed (BigQuery, BigTable, Redshift)
+* Object Storage	AWS S3, GCP GCS
+* AI/LLM Frameworks	LangChain, Spring AI (for enterprise LLM integration)
 
-## 🛠️ Technology Stack (for the Website)
+## Cloud, DevOps & Distributed Systems
+* Category	Key Tools & Practices
+* Cloud Platforms	Google Cloud Platform (GCP), Amazon Web Services (AWS)
+* Infrastructure-as-Code	Terraform
+* CI/CD & Automation	GitLab CI/CD, Unix Shell Scripting
+* Performance & Ops	Performance Tuning, Observability Design & Recommendations (Metrics, Tracing, Logging)
 
-This website is a simple static site, but its content reflects a comprehensive knowledge of the following technologies:
+## Core Architectural & Engineering Principles
 
-* **Frontend**: HTML, CSS, JavaScript (The basics, but the content is the core.)
-* **Static Site Generator**: 
-* **Hosting**: GitHub Pages / Netlify / Vercel
-* **Source Control**: Git & GitHub
+# System Architecture:
+
+* Design Principles: SOLID, GRASP, and Architectural Patterns (e.g., Domain-Driven Design).
+
+* Architecture Principles: Concurrency (designing for parallelism), Resiliency (circuit breakers, bulkheads), and High Availability.
+
+# Scalability:
+
+* Horizontal Scaling (stateless design for massive throughput).
+
+* Event-Based Scaling (leveraging message queues/streams for asynchronous processing).
+
+* Virtual Scaling (optimizing resource utilization).
+
+# Business Continuity:
+
+* Disaster Recovery (DR) Principles and hands-on implementations (Active-Active, Active-Passive strategies).
+
+* Delivery & Leadership:
+
+* Effective Team Mentoring and establishing technical standards.
+
+* Proven track record of managing and hitting ambitious Delivery Timelines.
 
 ## 📧 Connect
 
